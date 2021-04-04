@@ -1,0 +1,129 @@
+# Translation of Plugins - Google Analytics Dashboard for WP by ExactMetrics (formerly GADWP) - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Google Analytics Dashboard for WP by ExactMetrics (formerly GADWP) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-20 18:49:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Google Analytics Dashboard for WP by ExactMetrics (formerly GADWP) - Stable (latest release)\n"
+
+#. Author of the plugin
+#: includes/emails/class-emails.php:254 includes/admin/admin.php:31
+#: includes/admin/admin.php:34 includes/admin/admin.php:42
+#: lite/includes/admin/dashboard-widget.php:97
+#: lite/includes/admin/wp-site-health.php:246
+#: lite/includes/admin/wp-site-health.php:298
+#: lite/includes/admin/wp-site-health.php:325
+#: lite/includes/admin/wp-site-health.php:363
+#: lite/includes/admin/wp-site-health.php:390
+#: lite/includes/admin/wp-site-health.php:417
+#: lite/includes/admin/wp-site-health.php:442
+#: lite/includes/admin/wp-site-health.php:481
+msgid "ExactMetrics"
+msgstr "ExactMetrics"
+
+#: includes/admin/tracking.php:242
+msgid "Once Weekly"
+msgstr "Einmal wöchentlich"
+
+#: languages/vue.php:2602
+msgid "Usage Tracking"
+msgstr "Nutzungs-Tracking"
+
+#: languages/vue.php:328
+msgid "Hides plugin announcements and update details. This includes critical notices we use to inform about deprecations and important required configuration changes."
+msgstr "Blendet Plugin-Ankündigungen und Update-Details aus. Dazu gehören kritische Hinweise, die wir verwenden, um über wichtige erforderliche Konfigurationsänderungen zu informieren."
+
+#: languages/vue.php:331
+msgid "Hide Announcements"
+msgstr "Ankündigungen ausblenden"
+
+#: includes/admin/review.php:128
+msgid "No thanks"
+msgstr "Nein, danke"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://exactmetrics.com"
+msgstr "https://exactmetrics.com"
+
+#. Plugin Name of the plugin
+msgid "Google Analytics Dashboard for WP (GADWP)"
+msgstr "Google Analytics Dashboard for WP (GADWP)"
+
+#: languages/vue.php:1399
+msgid "Ecommerce"
+msgstr "E-Commerce"
+
+#: languages/vue.php:521
+msgid "Custom Dimensions"
+msgstr "Benutzerdefinierte Abmessungen"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:310
+msgid "Other"
+msgstr "Sonstige"
+
+#: languages/vue.php:929
+msgid "Bounce Rate"
+msgstr "Absprungrate"
+
+#: languages/vue.php:1572 includes/admin/admin.php:34
+#: includes/admin/admin.php:42 includes/admin/admin.php:188
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: languages/vue.php:217
+msgid "Real-Time"
+msgstr "Echtzeit"
+
+#: languages/vue.php:918
+msgid "Sessions"
+msgstr "Sitzungen"
+
+#. Description of the plugin
+msgid "Displays Google Analytics Reports and Real-Time Statistics in your Dashboard. Automatically inserts the tracking code in every page of your website."
+msgstr "Zeigt Google-Analytics-Berichte und Echtzeit-Statistiken im Dashboard. Fügt automatisch den Tracking-Code auf allen Seiten der Website ein."
+
+#: languages/vue.php:669
+msgid "Analytics"
+msgstr "Analytics"
+
+#: languages/vue.php:1936
+msgid "Permissions"
+msgstr "Rechte"
+
+#: languages/vue.php:587
+msgid "Events Tracking"
+msgstr "Event Tracking"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:934
+msgid "video"
+msgstr "Video ansehen"
+
+#: languages/vue.php:1899
+msgid "Automatic Updates"
+msgstr "Automatische Updates"
+
+#: languages/vue.php:557
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: languages/vue.php:18
+msgid "Today"
+msgstr "Heute"
+
+#: languages/vue.php:21
+msgid "Yesterday"
+msgstr "Gestern"
+
+#: languages/vue.php:878
+msgid "Advanced Tracking"
+msgstr "Erweitertes Tracking"
+
+#: languages/vue.php:250
+msgid "Save Changes"
+msgstr "Änderungen speichern"
